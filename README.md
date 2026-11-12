@@ -1,8 +1,8 @@
- <p align="center">
-  <img src="HR%20Analytics%20log.svg" width="120" alt="HR Analytics logo">
+<p align="center">
+  <img src="hr_logo.png" width="120" alt="HR Analytics logo">
 </p>
 
-# HR Analytics Dashboard | Power BI
+# 👥 HR Data Analytics Dashboard | Power BI
 
 **An interactive HR Analytics solution for workforce analysis, employee attrition, performance evaluation, and employee satisfaction.**
 
@@ -30,21 +30,29 @@ The dashboard analyzes a fictional workforce of **1,325 employees** in an Ethiop
 - Hiring trends by year.
 - Employee distribution by department and job role.
 
+![Workforce Overview](screenshots/1-workforce-overview.png)
+
 ### 2. Performance Analysis
 - Individual employee performance tracking.
 - Self-assessment versus manager ratings.
 - Employee performance and satisfaction trends.
+
+![Performance Analysis](screenshots/2-performance-analysis.png)
 
 ### 3. Attrition Analysis
 - Attrition by department and job role.
 - Attrition by education and marital status.
 - Business travel and years of service analysis.
 
+![Attrition Analysis](screenshots/3-attrition-analysis.png)
+
 ### 4. Employee Ratings
 - Job satisfaction analysis.
 - Work-life balance ratings.
 - Manager performance evaluations.
 - Employee training participation.
+
+![Employee Ratings](screenshots/4-employee-ratings.png)
 
 ## 🔍 Key Business Insights
 
