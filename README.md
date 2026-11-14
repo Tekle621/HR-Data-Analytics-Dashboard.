@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hr_logo.png" width="120" alt="HR Analytics logo">
+  <img src="HR%20Analytics%20log.svg" width="120" alt="HR Analytics logo">
 </p>
 
 # 👥 HR Data Analytics Dashboard | Power BI
